@@ -1,0 +1,4 @@
+[submodule "yomitan"]
+	path = yomitan
+	url = git@github.com:yomidevs/yomitan.git
+	branch = master
